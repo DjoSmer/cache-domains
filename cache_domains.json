@@ -121,6 +121,21 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "yuanshen",
+			"description": "CDN for Genshin",
+			"domain_files": ["yuanshen.txt"]
+		},
+		{
+			"name": "lesta",
+			"description": "CDN for tanki",
+			"domain_files": ["lesta.txt"]
+		},
+		{
+			"name": "vkgames",
+			"description": "CDN for VK games",
+			"domain_files": ["vkgames.txt"]
 		}
 	]
 }
